@@ -1,0 +1,13 @@
+{
+  "name": "damiwork/php-dbmanager",
+  "description": "DBManager",
+  "require": {
+    "php": ">=7.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "DBManager\\": "src/"
+    }
+  },
+  "license": "MIT"
+}
